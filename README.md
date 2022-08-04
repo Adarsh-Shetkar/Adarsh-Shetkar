@@ -1,6 +1,11 @@
-<h2>About</h2>
+# Hi, I'm Adarsh Shetkar! 👋
+I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT).
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-shetkar-94a676208/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarsh_shetkar)
 
-- 👋 Hi, I’m @Adarsh-Shetkar
+## About
+
 - 👀 I’m interested in Learning New skills
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: [Adarsh Shetkar](https://www.linkedin.com/in/adarsh-shetkar-94a676208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQyUnWH7bRSW6Tz3Ndl%2Bbuw%3D%3D)
@@ -18,7 +23,8 @@
   <img src="https://camo.githubusercontent.com/19cd225e46eb3bdcdce7a5bafd1887381640ef969c9486e8ae0c2040198f82cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742532302d2532333230323332612e7376673f267374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"> 
   <img src="https://camo.githubusercontent.com/ca559de059c1e25047e1609f89b62e7427232ec181632e3a8f9b6bda28619479/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2532302d2532333039324532302e7376673f267374796c653d66616c74266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465">
 </div>
-<hr>
+
+## Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Shetkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!---
