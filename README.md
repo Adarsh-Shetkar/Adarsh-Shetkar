@@ -1,8 +1,18 @@
 # Hi, I'm Adarsh Shetkar! 👋
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/adarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh_shetkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adarsh-shetkar-94a676208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-shetkar-94a676208" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aadarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadarsh_shetkar" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shetkar" /> </p>
 I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT).
+
+<!---
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-shetkar-94a676208/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarsh_shetkar)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adarsh_shetkar)--->
 
 ## About
 
@@ -24,8 +34,22 @@ I am an undergraduate student in the Department of Information Technology at Cha
   <img src="https://camo.githubusercontent.com/ca559de059c1e25047e1609f89b62e7427232ec181632e3a8f9b6bda28619479/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2532302d2532333039324532302e7376673f267374796c653d66616c74266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465">
 </div>
 
+
+<!---
 ## Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Shetkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+--->
+
+
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh-shetkar&show_icons=true&locale=en&layout=compact" alt="adarsh-shetkar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh-shetkar&show_icons=true&locale=en" alt="adarsh-shetkar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-shetkar&" alt="adarsh-shetkar" /></p>
+
 
 <!---
 Adarsh-Shetkar/Adarsh-Shetkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
