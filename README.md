@@ -6,7 +6,9 @@
 <a href="https://linkedin.com/in/adarsh-shetkar-94a676208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-shetkar-94a676208" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aadarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadarsh_shetkar" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shetkar" /> </p>
+
+![Profile views](https://gpvc.arturio.dev/Adarsh-Shetkar)
+
 I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT), enthusiastic towards Coding and Mathematics.
 
 <!---
@@ -18,7 +20,7 @@ I am an undergraduate student in the Department of Information Technology at Cha
 
 - 👀 I’m interested in Learning New skills
 - 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: [Adarsh Shetkar](https://www.linkedin.com/in/adarsh-shetkar-94a676208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQyUnWH7bRSW6Tz3Ndl%2Bbuw%3D%3D)
+- 📫 How to reach me: [Adarsh Shetkar](https://linkedin.com/in/adarsh-shetkar-94a676208)
 - 😄 Pronouns: He/His
 
 <h2>Technologies I know</h2>
