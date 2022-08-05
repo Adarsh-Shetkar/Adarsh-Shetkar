@@ -7,7 +7,7 @@
 <a href="https://www.hackerrank.com/aadarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadarsh_shetkar" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shetkar" /> </p>
-I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT).
+I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT), enthusiastic towards Coding and Mathematics.
 
 <!---
 ## 🔗 Links
