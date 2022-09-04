@@ -1,15 +1,16 @@
-# Hi, I'm Adarsh Shetkar! 👋
+<h1 align="center">Hi 👋, I'm Adarsh Shetkar</h1>
+
+<h3 align="center">I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT), enthusiastic towards Coding and Mathematics.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shetkar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh_shetkar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adarsh-shetkar-94a676208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-shetkar-94a676208" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adarshshetkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarshshetkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aadarsh_shetkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadarsh_shetkar" height="30" width="40" /></a>
 </p>
-
-![Profile views](https://gpvc.arturio.dev/Adarsh-Shetkar)
-
-I am an undergraduate student in the Department of Information Technology at Chaitanya Bharathi Institute of Technology(CBIT), enthusiastic towards Coding and Mathematics.
 
 <!---
 ## 🔗 Links
