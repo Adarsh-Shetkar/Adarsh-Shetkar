@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Shetkar</h1>
 
-<h3 align="center">I am a first-year graduate student at UC San Diego studying Computer Science, with a strong enthusiasm for Coding and Mathematics.</h3>
+<h3 align="center">I am a first-year graduate student at UC San Diego studying Computer Science, specializing in Artificial Intelligence, with a strong enthusiasm for Coding and Mathematics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-shetkar&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-shetkar" /> </p>
 
